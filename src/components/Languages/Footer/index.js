@@ -1,0 +1,2 @@
+export const vietnamese = ['Về WeTravel', 'Về chúng tôi', 'Theo dõi tại', 'Bản quyền © 2022 WeTravel']
+export const english = ['About WeTravel', 'About Us', 'Follow us on', 'Copyright © 2022 WeTravel']

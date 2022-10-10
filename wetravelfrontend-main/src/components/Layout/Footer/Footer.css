@@ -1,0 +1,41 @@
+.footer {
+    width: 100%;
+    height: auto;
+    background-color: #00000098;
+    color: white;
+    z-index: 1;
+}
+
+.content-footer {
+    padding: 30px 200px 50px 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.copyright {
+    text-align: center;
+    padding: 15px;
+    background-color: black;
+    color: white;
+}
+
+.m-bottom-100 {
+    margin-bottom: 80px;
+}
+
+.contact-logo {
+    width: 20px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.contact-link {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+}
+
+.contact-link:hover {
+    color: white;
+    border-bottom: solid 1px white;
+}
